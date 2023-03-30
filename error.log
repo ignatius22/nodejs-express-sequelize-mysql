@@ -1,0 +1,18 @@
+{"level":"error","timestamp":"2023-02-06T04:07:10.912Z"}
+{"level":"error","timestamp":"2023-02-06T04:11:07.747Z"}
+{"level":"error","timestamp":"2023-02-06T04:12:10.426Z"}
+{"level":"error","timestamp":"2023-02-06T04:12:58.932Z"}
+{"level":"error","timestamp":"2023-02-06T04:18:47.123Z"}
+{"level":"error","timestamp":"2023-02-06T04:20:12.858Z"}
+{"level":"error","timestamp":"2023-02-06T04:20:56.051Z"}
+{"level":"error","timestamp":"2023-02-06T04:30:10.759Z"}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"22P02","file":"uuid.c","length":106,"line":"137","name":"error","position":"109","routine":"string_to_uuid","severity":"ERROR","sql":"SELECT \"id\", \"title\", \"description\", \"createdAt\", \"updatedAt\" FROM \"groups\" AS \"Group\" WHERE \"Group\".\"id\" = 'assign';"},"parameters":{},"parent":{"code":"22P02","file":"uuid.c","length":106,"line":"137","name":"error","position":"109","routine":"string_to_uuid","severity":"ERROR","sql":"SELECT \"id\", \"title\", \"description\", \"createdAt\", \"updatedAt\" FROM \"groups\" AS \"Group\" WHERE \"Group\".\"id\" = 'assign';"},"sql":"SELECT \"id\", \"title\", \"description\", \"createdAt\", \"updatedAt\" FROM \"groups\" AS \"Group\" WHERE \"Group\".\"id\" = 'assign';","timestamp":"2023-02-06T04:40:41.410Z"}
+{"level":"error","timestamp":"2023-02-06T04:44:31.364Z"}
+{"level":"error","timestamp":"2023-02-06T06:35:43.175Z"}
+{"level":"error","timestamp":"2023-02-06T06:35:43.175Z"}
+{"level":"error","timestamp":"2023-02-06T06:35:43.175Z"}
+{"level":"error","timestamp":"2023-02-06T06:37:30.833Z"}
+{"level":"error","message":"user not round","timestamp":"2023-02-06T06:38:42.067Z"}
+{"level":"error","message":"user not round","timestamp":"2023-02-06T06:40:21.204Z"}
+{"level":"error","message":"user not round","timestamp":"2023-02-06T06:42:08.309Z"}
+{"level":"error","message":"user not round","timestamp":"2023-02-06T06:42:43.335Z"}
